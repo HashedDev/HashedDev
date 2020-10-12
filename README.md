@@ -12,8 +12,8 @@ I have intrest in computer programming and socialism.
 * [CornyCobOf](https://twitch.tv/cornycobof) Event Manager
 
 ### Contact
-Email: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
-Discord: [449250687868469258]()
+* Email: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
+* Discord: [449250687868469258]()
 
 ### Statistics
 [![HashedDev's Github Stats](https://github-readme-stats.vercel.app/api?username=HashedDev&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
