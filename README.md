@@ -1,19 +1,18 @@
-# HashedDev 💻
-### About
+## About
 Hi, i'm Ruben (A.K.A: Dev/HashedDev/RubenDev).
 I have intrest in computer programming and socialism.
 
-### Projects
+## Projects
 * [Discord Bot Controls](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/) Plugins ([Link](https://github.com/Discord-Bot-Controls/Plugins))
 
-### Occupation
+## Occupation
 * [NodeJS](https://nodejs.org/en/) Developer
 * [Discord Rep](https://discordrep.com/u/449250687868469258) Staff
 * [CornyCobOf](https://twitch.tv/cornycobof) Event Manager
 
-### Contact
+## Contact
 * Email: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
 * Discord: [449250687868469258](https://discord.com/users/449250687868469258)
 
-### Statistics
+## Statistics
 [![HashedDev's Github Stats](https://github-readme-stats.vercel.app/api?username=HashedDev&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
