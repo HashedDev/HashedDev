@@ -3,7 +3,8 @@ Hi, i'm Ruben (A.K.A: Dev/HashedDev/RubenDev).
 I have intrest in computer programming and socialism.
 
 ## Projects
-* [Discord Bot Controls](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/) Plugins ([Link](https://github.com/Discord-Bot-Controls/Plugins))
+* [Discord Bot Controls](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/)
+* [Server.gg](http://server.gg)
 
 ## Occupation
 * [NodeJS](https://nodejs.org/en/) Developer
