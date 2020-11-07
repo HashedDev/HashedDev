@@ -4,7 +4,7 @@ I have intrest in computer programming and socialism.
 
 ## Projects
 * [Discord Bot Controls](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/)
-* [Server.gg](http://server.gg)
+* [Server.gg](http://server-gg.xyz)
 * [Filebin.js](https://github.com/HashedDev/filebin.js)
 
 ## Occupation
