@@ -1,21 +1,27 @@
-## About
-Hi, i'm Ruben (A.K.A: Dev/HashedDev/RubenDev).
-I have intrest in computer programming and socialism.
+# About
+## Hi! 👋
+My name is Ruben de Bruijne.
+I'm a computer programmer that works mostly on **JavaScript** ([NodeJS](https://nodejs.org))!
+## Occupation 🔧
+- [NodeJS](https://nodejs.org) Developer
+- [Discord Rep](https://discordrep.com) Staff (Trial Moderator)
+- [CornyCobOf](https://twitch.tv/cornycobof) Moderator & Event Manager
+## Contact 📫
+- E-Mail: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
+- Discord: [Dev#8888](https://discord.com/users/449250687868469258)
+## Github Stats 📈
+[![HashedDev's Github Stats](https://github-readme-stats.vercel.app/api?username=HashedDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
-* [Discord Bot Controls](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/)
-* [Server.gg](http://server-gg.xyz)
-* [Filebin.js](https://github.com/HashedDev/filebin.js)
-* [Discord.js Command Handler](https://github.com/HashedDev/discord.js-Command-Handler)
+# Projects
+## filebin.js 🗑
+*A javascript api for filebin.net*
 
-## Occupation
-* [NodeJS](https://nodejs.org/en/) Developer
-* [Discord Rep](https://discordrep.com/u/449250687868469258) Staff
-* [CornyCobOf](https://twitch.tv/cornycobof) Event Manager
+View it at [Github ![](https://i.imgur.com/qVSy1qU.png)](https://github.com/HashedDev/filebin.js)
+## Discord Bot Controls ⚙
+*A Discord Bot Maker*
 
-## Contact
-* Email: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
-* Discord: [449250687868469258](https://discord.com/users/449250687868469258)
+Purchase at [Steam ![](https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/steam-icon.png)](https://store.steampowered.com/app/1010170/Discord_Bot__Controls/)
+## Server.gg 🖥
+*An Discord Utility Bot*
 
-## Statistics
-[![HashedDev's Github Stats](https://github-readme-stats.vercel.app/api?username=HashedDev&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Visit our website at [server-gg.xyz](http://server-gg.xyz)
