@@ -6,6 +6,7 @@ I'm a computer programmer that works mostly on **JavaScript** ([NodeJS](https://
 - [NodeJS](https://nodejs.org) Developer
 - [Discord Rep](https://discordrep.com) Staff (Trial Moderator)
 - [CornyCobOf](https://twitch.tv/cornycobof) Moderator & Event Manager
+
 ## Contact 📫
 - E-Mail: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
 - Discord: [Dev#8888](https://discord.com/users/449250687868469258)
