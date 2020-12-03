@@ -4,7 +4,6 @@ My name is Ruben de Bruijne.
 I'm a computer programmer that works mostly on **JavaScript** ([NodeJS](https://nodejs.org))!
 ## Occupation 🔧
 - [NodeJS](https://nodejs.org) Developer
-- [Discord Rep](https://discordrep.com) Staff (Trial Moderator)
 - [CornyCobOf](https://twitch.tv/cornycobof) Moderator & Event Manager
 
 ## Contact 📫
