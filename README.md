@@ -1,7 +1,7 @@
 # About
 ## Hi! 👋
 My name is Ruben de Bruijne.
-I'm a computer programmer that works mostly on **JavaScript** ([NodeJS](https://nodejs.org))!
+I'm a computer programmer that works with **JavaScript** ([NodeJS](https://nodejs.org))!
 ## Occupation 🔧
 - [NodeJS](https://nodejs.org) Developer
 
@@ -24,3 +24,7 @@ Purchase at [Steam ![](https://icons.iconarchive.com/icons/papirus-team/papirus-
 *An Discord Utility Bot*
 
 Visit our website at [server-gg.xyz](http://server-gg.xyz)
+## RblxUtil
+*A Roblox to Discord integration with handy features such as Roblox tax calculation!*
+
+Invite the bot at [discord.com/auth](https://discord.com/api/oauth2/authorize?client_id=789592418756198421&permissions=117760&scope=bot%20applications.commands)
