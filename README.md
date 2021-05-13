@@ -4,6 +4,7 @@ My name is Ruben de Bruijne.
 I'm a computer programmer that works with **JavaScript** ([NodeJS](https://nodejs.org))!
 ## Occupation 🔧
 - [NodeJS](https://nodejs.org) Developer
+- Freelancer
 
 ## Contact 📫
 - E-Mail: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
