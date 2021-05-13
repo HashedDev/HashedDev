@@ -7,7 +7,7 @@ I'm a computer programmer that works with **JavaScript** ([NodeJS](https://nodej
 
 ## Contact 📫
 - E-Mail: [contact@dev0x.xyz](mailto:contact@dev0x.xyz)
-- Discord: [Dev#8888](https://discord.com/users/449250687868469258)
+- Discord: [kiddo#7873](https://discord.com/users/449250687868469258)
 ## Github Stats 📈
 [![HashedDev's Github Stats](https://github-readme-stats.vercel.app/api?username=HashedDev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
